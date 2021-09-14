@@ -1,0 +1,12 @@
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-01.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-02.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-03.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-04.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-05.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-06.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-07.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-08.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-09.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-10.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-11.bz2;
+wget -c https://archive.org/download/2015_reddit_comments_corpus/reddit_data/2014/RC_2014-12.bz2;
