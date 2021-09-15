@@ -69,3 +69,23 @@ please refer to ```reliability_metrics.py```.
 **Regression Analyses**  
 
 See ```mlr/```. 
+
+
+**Citation**
+
+If you find this repository useful, please consider citing our paper
+```
+@inproceedings{du-etal-2021-assessing,
+    title = "Assessing the Reliability of Word Embedding Gender Bias Measures",
+    author = "Du, Yupei  and
+      Fang, Qixiang  and
+      Nguyen, Dong",
+    booktitle = "EMNLP",
+    year = "2021"
+}
+```
+
+**Contact** 
+
+If you have questions/issues, 
+either open an issue or contact Yupei Du (y.du@uu.nl) directly. 
